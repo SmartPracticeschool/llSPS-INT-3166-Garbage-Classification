@@ -1,7 +1,7 @@
 # llSPS-INT-3166-Garbage-Classification
 Garbage Classification
 
-I About Garbage Classification Project
+About Garbage Classification Project
 
 The accumulation of solid waste in the urban area is becoming a great concern, and it would result in environmental pollution and may be hazardous to human health if 
 it is not properly managed. It is important to have an advanced/intelligent waste management system to manage a variety of waste materials. One of the most important
@@ -16,7 +16,7 @@ manually by Gary Thung and Mindy Yang was used here. This Garbage Classification
 
 Data Set: Download the corresponding dataset here https://github.com/garythung/trashnet/blob/master/data/dataset-resized.zip 
 
-II Steps for execution:
+Steps for execution:
 
 1. Download Garbage Classification 1.ipynb
 2. Download the dataset mentioned and move it to the same directory as the notebook
