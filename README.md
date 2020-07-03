@@ -14,4 +14,6 @@ In this project,by using the convolutional neural network to classify an image a
 manually by Gary Thung and Mindy Yang was used here.
 
 
-Data Set 
+Data Set Used : 
+
+Download the corresponding dataset here and move it to the same directory as the notebook
