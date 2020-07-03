@@ -1,7 +1,7 @@
 # llSPS-INT-3166-Garbage-Classification
 Garbage Classification
 
-About Garbage Classification Project
+I About Garbage Classification Project
 
 The accumulation of solid waste in the urban area is becoming a great concern, and it would result in environmental pollution and may be hazardous to human health if 
 it is not properly managed. It is important to have an advanced/intelligent waste management system to manage a variety of waste materials. One of the most important
@@ -11,9 +11,13 @@ tested on the trash image dataset which was developed by Gary Thung and Mindy Ya
 the waste will be faster and intelligent using the proposed waste material classification system without or reducing human involvement.
 
 In this project,by using the convolutional neural network to classify an image as either cardboard, glass, metal, paper, plastic, or trash. The image dataset collected
-manually by Gary Thung and Mindy Yang was used here.
+manually by Gary Thung and Mindy Yang was used here. This Garbage Classification Project was build using Jupyter Notebook.
 
 
-Data Set Used : 
+Data Set: Download the corresponding dataset here https://github.com/garythung/trashnet/blob/master/data/dataset-resized.zip 
 
-Download the corresponding dataset here and move it to the same directory as the notebook
+II Steps for execution:
+
+1. Download Garbage Classification 1.ipynb
+2. Download the dataset mentioned and move it to the same directory as the notebook
+3. Run the notebook
